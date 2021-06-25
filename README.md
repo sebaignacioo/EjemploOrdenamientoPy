@@ -14,7 +14,7 @@
   - [Replit](#replit)
   
 ## Ejemplo de ejecución
-Puedes revisar un ejemplo de ejecución del programa [aquí](docs/Ejecucion)
+Puedes revisar un ejemplo de ejecución del programa [aquí](docs/Ejecucion.md)
 
 ## Descripcion
 Este programa muestra por pantalla el proceso de ordenamiento de una lista en Python, de mayor a menor.
