@@ -41,5 +41,4 @@ Una vez revisados los requerimientos, para ejecutar el programa se debe ejecutar
 
 ### Replit
 
-Para ejecutar el programa desde el servicio colaboratívo Replit, es necesario acceder a [este link](https://replit.com/@SebaGarciaD/simanpython "Repositorio Replit") y presionar el botón `run`. El repositorio está configurado para 
-automatizar la tarea de ejecución del programa.
+Para ejecutar el programa desde el servicio colaboratívo Replit, es necesario acceder a [este link](https://replit.com/@SebaGarciaD/EjemploOrdenamientoPy "Repositorio Replit") y presionar el botón `run`. El repositorio está configurado para automatizar la tarea de ejecución del programa.
