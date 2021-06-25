@@ -20,7 +20,7 @@ Puedes revisar un ejemplo de ejecución del programa [aquí](docs/Ejecucion.md)
 Este programa muestra por pantalla el proceso de ordenamiento de una lista en Python, de mayor a menor.
 
 ## IDE
-Para el desarrollo de este código, se utilizó **PyCharm** como IDE local, y [Replit](https://replit.com/@SebaGarciaD/simanpython "Replit") como 
+Para el desarrollo de este código, se utilizó **PyCharm** como IDE local, y [Replit](https://replit.com/@SebaGarciaD/EjemploOrdenamientoPy "Replit") como 
 servicio colaborativo en linea.
 
 ## Ejecucion
